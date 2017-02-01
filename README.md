@@ -17,7 +17,8 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 ## 經驗分享
 
-* [釀造紀錄](Brewing History.md)
+* [釀造紀錄](/brewingHistory/)
+  * 可惜201607-201703之間的數據損毀了...ＱＡＱ
 
 * [自釀分享會紀錄](自釀分享會紀錄.md)
 
@@ -101,6 +102,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 ### 糖化
 
 *   [流程與Tips](糖化流程與Tips.md)
+*   [糖化效率建議](糖化效率建議.md)
 *   [多階段糖化與設備改裝](多階段糖化與設備改裝.md)
 *   [半自動糖化GrainFather試用](試用GrainFather半自動糖化.md)
 *   榨乾你的麥汁 [梨子酒](http://www.the-gift-of-wine.com/perry.html)
