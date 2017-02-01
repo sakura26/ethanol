@@ -87,14 +87,14 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 ### 清潔、消毒
 
 *   [自釀聖經的介紹](https://sites.google.com/site/howtobrewtwversion/brewing-your-first-beer-with-malt-extract/ch2/2-2/2-2-3) 
-*   [清潔方式比較](/ndSara1eGGq#清潔方式比較)
-*   [消毒方式比較](/RfGn4tvTDx5#消毒方式比較)
+*   [清潔方式比較](清潔方式比較.md)
+*   [消毒方式比較](消毒方式比較.md)
 
-### 原料**
+### 原料
 
 *   [糖類](糖.md) 
 *   啤酒花栽培 [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1256914554325850/)
-*   麥芽製備
+*   [麥芽製備](麥芽製備.md)
 *   [水質](水質.md)
 *   [酵母](酵母.md) 
 *   [輔料清單](輔料清單.md) 
