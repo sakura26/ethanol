@@ -67,6 +67,8 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 ## Guide
 
+* [Let’s Brew！自釀啤酒完全指南](https://share.readmoo.com/book/682459) 這本寫的超級棒也超詳細，不管是玩玩還是想深入都建議買回來好好讀過一遍
+
 * [自釀啤酒聖經](https://sites.google.com/site/howtobrewtwversion/)  
 
 * [台灣自釀啤酒玩家俱樂部](http://www.homebrew.tw)
