@@ -179,6 +179,8 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 *   [成本計算與最佳化](成本計算與最佳化.md)
 *   [精釀的營運與市場分析](精釀的營運與市場分析.md) 
+*   [米酒釀造](米酒釀造.md)
+*   [酒釀、甜酒、味淋](http://homeeconomics.pixnet.net/blog/post/66280469-146.%E9%85%92%E9%87%80%E3%80%81%E7%94%9C%E9%85%92%E3%80%81%E5%91%B3%E9%86%82)
 *   [麥芽糖製作](http://www.masters.tw/7351/%E7%99%BC%E9%85%B5%E7%9A%84%E7%A7%91%E5%AD%B85) 
 
 ## 雜項
