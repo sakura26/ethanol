@@ -132,7 +132,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   [碳酸化](碳酸化.md) （讓啤酒產生氣的過程）
 *   改裝出酒機
 *   [超便宜出酒機](https://www.facebook.com/groups/homebrew.tw/permalink/1408238905860080/) 
-*   [keg與玻璃瓶的比較](keg與玻璃瓶的比較.md)
+*   [裝瓶容器比較](裝瓶容器比較.md)
 *   [可樂桶與改裝](可樂桶改裝.md)
 *   等壓裝瓶 [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1545392425478060/) 
 *   [裝瓶桶](https://www.facebook.com/groups/homebrew.tw/permalink/1431841270166510/) 
