@@ -20,7 +20,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 * [釀造紀錄](/brewingHistory/)
   * 可惜201607-201703之間的數據損毀了...ＱＡＱ
 
-* [自釀分享會紀錄](自釀分享會紀錄.md)
+* [自釀分享會紀錄](homebrewChampion/log)
 
 * [品飲紀錄](品飲紀錄.md)
 
@@ -64,6 +64,11 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
    [FB社群](https://www.facebook.com/groups/1575006752729316/)。
  [網站](http://www.brewerland.com/)
 
+* **橘蘋巢自釀聚會**
+
+   [首頁](https://sakura264.wixsite.com/oranbeer)
+
+   [資料紀錄](homebrewChampion)
 
 ## Guide
 
