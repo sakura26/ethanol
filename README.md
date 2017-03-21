@@ -90,6 +90,8 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   供應商：[工具與原料購買資訊](原料跟工具購買資訊.md)
 *   酒譜微調：[酵母、麥芽、酒花、糖風味評量](酵母-酒花-麥芽-糖風味評量.md)
 *   快速發酵測試：[FFT](https://www.facebook.com/groups/homebrew.tw/permalink/1359456824071622/) 
+*   [酒譜設計課程筆記](酒譜設計課程.md)
+
 
 ### 清潔、消毒
 
