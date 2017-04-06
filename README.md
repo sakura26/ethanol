@@ -180,6 +180,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 *   [基礎設備操作](基礎設備操作.md)
 *   [我的麥汁被感染了嗎](我的麥汁被感染了嗎.md)？
+*   [黃麴毒素或甲醇？](https://www.facebook.com/groups/homebrew.tw/permalink/1654536107897024/)
 *   [硬體改裝](硬體改裝.md)
 
 ### 其他
