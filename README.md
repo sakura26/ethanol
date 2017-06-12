@@ -131,6 +131,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   [酵母最佳活動範圍tips](酵母.md	) 
 *   [發酵溫控策略](發酵溫控策略.md)
 *   [發酵桶選擇與改裝](發酵桶選擇與改裝.md)
+*   [Keg發酵](keg.md)
 *   開放式發酵 [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1235986213085351/) [YouTube](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX9xT8DHOZFE&h=NAQED-hPn)
 *   [帶壓發酵與裝瓶](帶壓發酵與裝瓶.md) [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1221160357901270/)
 
@@ -140,7 +141,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   改裝出酒機
 *   [超便宜出酒機](https://www.facebook.com/groups/homebrew.tw/permalink/1408238905860080/) 
 *   [裝瓶容器比較](裝瓶容器比較.md)
-*   [可樂桶與改裝](可樂桶改裝.md)
+*   [Keg出酒](keg.md)
 *   等壓裝瓶 [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1545392425478060/) 
 *   [裝瓶桶](https://www.facebook.com/groups/homebrew.tw/permalink/1431841270166510/) 
 *   [熟成時間](熟成時間.md) 
