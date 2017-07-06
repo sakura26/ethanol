@@ -78,6 +78,8 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 * [台灣自釀啤酒玩家俱樂部](http://www.homebrew.tw)
 
+* [相關證照/考試/學習指南](相關證照考試學習指南.md)
+
 ## 研究總表
 
 釀酒流程：**糖化、煮花、發酵、裝瓶**
