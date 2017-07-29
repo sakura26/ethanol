@@ -46,3 +46,4 @@ OG1.045 FG1.006 14.6L ABV5.1 IBU19.37 SRM3.85
 
 ![](../img/test55.png)
 
+170626 換桶，加糖3 valumes碳酸化
