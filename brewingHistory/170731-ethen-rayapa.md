@@ -20,7 +20,7 @@ Pico Z with full-auto plant chiller
 
 **酒花**
 
-* Magnum 14.8% 15g 60min
+* Magnum 11.8% 15g 60min
 * Centennial 9.3% 7g+cascade 3g 5min
 * Centennial 9.3% 20g 2min （pico無法熱泡）
 * Centennial 9.3% 30g 冷泡
@@ -35,7 +35,7 @@ Pico Z with full-auto plant chiller
 
 蓋子250g 頭30g 
 
-12.9L OG1.048 FG1.009 ABV5.12 IBU61.02 SRM11.36 50%
+12.9L OG1.048 FG1.009 ABV5.12 IBU46.13 SRM11.36 50%
 
 苦味比預期高很多啊.... 需要調整一下
 
