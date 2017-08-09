@@ -41,3 +41,7 @@ Pico Z with full-auto plant chiller
 
 ![](../img/test67.png)
 ![](../img/test68.png)
+
+170809
+
+FG1.011 ABV4.86% 氣味顯然是APA, 但同時Pico味也很強，WTF! 不是不香，但我完全不喜歡這個味道的干擾。倒底該不該繼續乾投呢....

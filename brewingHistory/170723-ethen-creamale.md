@@ -64,3 +64,13 @@ Pico 19.4-4.5=14.9L OG 1.043 49% FG 1.011 ABV 4.21 IBU 23.16 SRM 4.59
 ![](../img/test57.png)
 ![](../img/test58.png)
 
+
+## 170805換桶
+
+PICO
+
+FG 1.01 ABV4.33
+
+GF 
+
+FG 1.009 ABV4.07
