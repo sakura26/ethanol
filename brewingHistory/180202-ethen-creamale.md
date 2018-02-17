@@ -40,3 +40,4 @@ OG1.049 FG1.012 ABV4.84 IBU13.67 SRM3.38 IBU too low
 
 ![](../img/test100.png)
 
+## 180216 冷降
