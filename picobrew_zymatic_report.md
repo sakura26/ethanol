@@ -54,7 +54,7 @@ Zymatic是一台高度自動化的機器，濃縮了酒廠的自動化機制於�
 ### 缺點
 
 * 無法攪拌導致極低的糖化效率，約為BIAB等級
-  * Pico 49~56%，對比GrainFather約為60~86%低了很多，使用 [BrewersFriend](https://www.brewersfriend.com/) 計算
+  * Pico 49\~56%，對比GrainFather約為60\~86%低了很多，使用 [BrewersFriend](https://www.brewersfriend.com/) 計算
 * 依然需要守在前面做手動降溫，因為升溫階段的時間不一定，所以回來做冷卻的時間也不一定。如果沒有及時冷卻有可能造成IBU高於預期
   * 這個問題由專案 Pico自動化冷卻系統 <https://github.com/sakura26/pico-extension> 解決
 * 高度特製的壓克力麥芽槽結構設計會因為應力集中造成自然的裂痕，且更換價格昂貴
