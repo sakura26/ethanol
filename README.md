@@ -95,6 +95,18 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   [酒譜設計課程筆記](酒譜設計課程.md)
 
 
+### 菌種操作
+
+* [微生物菌種活化及保存講義](微生物菌種活化及保存班.md)
+* [無菌操作台](無菌操作台laminar_flow.md)
+* [滅菌釜](滅菌釜.md)
+* [酵母](酵母.md)  
+
+### 設備
+
+*   [半自動糖化GrainFather試用](試用GrainFather半自動糖化.md)
+*   [Picobrew Zymatic測試報告](picobrew_zymatic_report.md)  
+
 ### 清潔、消毒
 
 *   [自釀聖經的介紹](https://sites.google.com/site/howtobrewtwversion/brewing-your-first-beer-with-malt-extract/ch2/2-2/2-2-3) 
@@ -115,7 +127,6 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   [流程與Tips](糖化流程與Tips.md)
 *   [糖化效率建議](糖化效率建議.md)
 *   [多階段糖化與設備改裝](多階段糖化與設備改裝.md)
-*   [半自動糖化GrainFather試用](試用GrainFather半自動糖化.md)
 *   榨乾你的麥汁 [梨子酒](http://www.the-gift-of-wine.com/perry.html)
 
 ### 煮花
@@ -156,7 +167,6 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 
 *   清理
 *   [過濾](過濾.md) 
-*   [酵母回收、保存](酵母.md)  
 *   Lager釀造 [FB](https://www.facebook.com/groups/homebrew.tw/permalink/1262000373817268/)
 *   [巴氏消毒](https://www.facebook.com/groups/homebrew.tw/permalink/1317849744898997/)
 *   [自動化控制](自動化控制.md)
