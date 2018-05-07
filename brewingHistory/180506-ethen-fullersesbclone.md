@@ -2,21 +2,31 @@
 
 本次...好啦我承認我只是想消耗ESB酵母
 
+參考Recipe: <https://www.brewersfriend.com/homebrew/recipe/view/643100/fullers-esb-clone>
+
+<https://www.homebrewtalk.com/forum/threads/fullers-recipes-for-esb-pride-chiswick-imperials-neipa-from-the-horses-mouth.642756/>
+
+Vito提醒之後才發現這個recipe跟原本的不太一樣，重新調了一版
+
+<https://www.brewersfriend.com/homebrew/recipe/view/648636/fullers-esb-clone-more-offical->
+
+沒有調整水質
+
 **設備**
 
 GF 批量30L
 
 **麥**
 
-* MO 7.14kg
-* UK Dark crystal 80L 450g
-* UK Chocolate 122.6g
+* MO 7.14kg 92.6%
+* UK Dark crystal 80L 450g 5.8%
+* UK Chocolate 122.6g 1.6%
 
 麥水比3.1, 23.9L, 66度60min
 
 電動三棍碾麥機果然還是需要每次使用前調整，這次碾麥似乎有點太粗，留下的澱粉有點多，但意外的糖化效率還行
 
-麥汁出來顏色有點過深，看來該考慮把巧克力分開來泡了
+麥汁出來顏色有點過深，看來該考慮把巧克力分開來泡了...誒等等原廠只用了0.3%...
 
 **酒花**
 
@@ -50,6 +60,8 @@ Northdown -> Parle
 還是有留一份1968跟1768, 有空來玩菌種計數與擴培
 
 原本那些酵母的菌數是0.48, 2/2到現在衰退剩34%, 總共下了第一桶6份(0.98M) 第二桶4份(0.81M)的酵母，應該是滿足條件了
+
+如果按照Fullers的譜，OG1.59 FG1.015，酵母要很夠力才行?
 
 **流程**
 
