@@ -53,3 +53,5 @@ OG1.064 FG1.016 ABV6.36 IBU51.97 SRM14.59 ....Orz
 
 ![](../img/test107.png)
 ![](../img/test108.png)
+
+發酵桶分成 15.6L+9.3L兩桶
