@@ -68,6 +68,9 @@ OG1.1是常見的配置，酒精濃度10~18%，發酵溫度常見21
 * 1 3.5 1.147 19.05% 22 4184
 * 老鼠: 我是算好 投到蜂蜜水 大概20brix(1.083) 的E6
 * 蜂蜜3000g+水7500ml+花粉50g+擴培酵母液600ml OG1.1034 FG 1.003
+* 2.84L+1.36kg 
+  * https://hubpages.com/food/How-to-Make-Mead-Mint-Lime-Honey-Wine
+
 
 ### 市售成品
 #### MEAD TROJNIAK PIASTOWSKI 蜂蜜酒
