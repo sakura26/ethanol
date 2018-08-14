@@ -1,6 +1,6 @@
 # 180806-ethen-BelgianPaleAle
 
-2018自釀大賽比利時組，基於雷大的譜
+2018自釀大賽比利時組，基於雷大的譜微調
 
 https://www.brewersfriend.com/homebrew/recipe/view/680041/r-taiwan2018-bpa
 
@@ -49,4 +49,9 @@ GrainFather
 
 ![](../img/test131.png)
 
-## 
+## 180810冷降
+
+大桶1.015、渣FG1.017、應已經發酵完畢，冷降至1度預定三天後換桶裝瓶
+
+## 180812換桶
+
