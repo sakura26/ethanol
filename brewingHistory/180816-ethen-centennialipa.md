@@ -13,7 +13,7 @@ GrainFather 26L
 * 紐Gladfield Ale 5360g
 * 英MO 1131g
 * 英Crystal 60L 565g
-* Munich 565g
+* 金鼎軒Munich 565g
 * 比利時CaraMunich 198g
 
 7.82kg
@@ -64,7 +64,7 @@ GrainFather 26L
 
 整體27kg OG1.072 FG1.013 ABV7.69 IBU64.19(酒花調降前69.69) SRM14.43
 
-應該不用補水，要補的話2L OG1.067 FG1.012 ABV7.17 IBU60.23 SRM13.77
+補水2L OG1.067 FG1.012 ABV7.17 IBU60.23 SRM13.77
 
 ![](../img/test134.png)
 ![](../img/test135.png)
