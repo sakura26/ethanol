@@ -33,7 +33,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 * [酒譜](酒譜.md)
 * [工具與原料購買資訊](原料跟工具購買資訊.md)
 * [Brewer's Friend 酒譜與計算機](http://www.brewersfriend.com) 
-
+* [BJCP自釀啤酒分類表2015](https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf)
 
 ## 台灣社群
 [活動行事曆](https://calendar.google.com/calendar/embed?src=ccsakura-net.com_8a98d1hbmutgrqgkmeee1ab7r0%40group.calendar.google.com&ctz=Asia%2FTaipei)
@@ -62,6 +62,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 ### 海外論壇
 * <https://www.homebrewtalk.com/forum/>
 
+以上按地理位置排序
 
 ## 自釀設備與材料供應商
 * [網路 貝肯布](https://shopee.tw/bakenbrew)
@@ -84,15 +85,20 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
   * <http://www.lallemandbrewing.com/>
   * <https://mangrovejacks.com/>
   
+以上按個人常用排序
 
 ## 釀酒教學課程
 
-* [憨啤酒](https://www.facebook.com/%E6%86%A8%E5%95%A4%E9%85%92-HanBeer-1579318709024573)
-* [台中 懶散](https://www.facebook.com/langsamcraftbeer/)
+* [全台 憨啤酒](https://www.facebook.com/%E6%86%A8%E5%95%A4%E9%85%92-HanBeer-1579318709024573)
+* [全台 啤酒王](http://class.ruten.com.tw/user/index00.php?s=beerbearwang)
+* [台北 釀酒人樂園](https://www.facebook.com/brewerland/) 好像很久沒更新了
+* [台北 飛在米花屋](https://www.facebook.com/%E9%A3%9B%E5%9C%A8%E7%B1%B3%E8%8A%B1%E5%B1%8B-%E7%A8%AE%E9%BA%B4-%E8%8F%8C%E7%A8%AE-967521933360797/) 很少開課
 * [桃園 Showhow](http://buy.goodbeer.cc/)
+* [台中 懶散](https://www.facebook.com/langsamcraftbeer/)
+* [彰化 ibrew-beer](https://www.facebook.com/Ibrewbeer.com.tw)
 * [台南 潮玩啤](https://www.facebook.com/beerinvogue)
-* [台北 啤酒王](http://class.ruten.com.tw/user/index00.php?s=beerbearwang)
-* 台北釀酒人樂園好像很久沒更新了
+
+以上按地理位置排序
 
 ## Guide
 * [Let’s Brew！自釀啤酒完全指南](https://share.readmoo.com/book/682459) 這本寫的超級棒也超詳細，不管是玩玩還是想深入都建議買回來好好讀過一遍
