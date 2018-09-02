@@ -6,7 +6,7 @@ https://www.brewersfriend.com/homebrew/recipe/view/680041/r-taiwan2018-bpa
 
 **設備**
 
-GrainFather
+GrainFather 18L
 
 **麥**
 
@@ -55,3 +55,6 @@ GrainFather
 
 ## 180812換桶
 
+## 180902裝瓶碳酸化
+
+一桶9kg，其他裝瓶（預定27瓶），預定2.2vol/糖量105.9g~100g
