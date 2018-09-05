@@ -47,6 +47,8 @@ Pico Zymatic
 ![](../img/test140.png)
 ![](../img/test141.png)
 
-## 
+## 180905
+
+FG1.009，送去冷降
 
 TODO: 補水1L, 換桶裝瓶
