@@ -34,9 +34,9 @@ GrainFather 36L
 
 **酵母**
  
-* 林大凍菌管 3068，Pitch Rate 0.5（13L）
-* 貝肯布 330，Pitch Rate 0.5（13L）
-* 林大凍菌管 WLP300，Pitch Rate 0.5（10.1L）
+* 林大凍菌管 3068，Pitch Rate 0.53（13L）
+* 林大凍菌管 WLP300，Pitch Rate 0.53（13L）
+* 貝肯布 330，Pitch Rate 0.68（10.1L）
 
 降溫到13度後投入，發酵溫度17度
 
