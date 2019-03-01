@@ -1,0 +1,37 @@
+# 190228-Ethen-RayHefeweizen
+
+本次測試小麥酵母Munich Classic
+
+**設備**
+
+GF 15L
+
+**麥**
+
+* Gladfield Pale Ale 1.62kg
+* 城堡白小麥 1.62kg
+
+麥水比3.3, 10.8L
+
+醣化64度60min，跟前面相比果然麥床通過速度變慢了，小麥多有差
+
+糖化效率83%
+
+**酒花**
+
+* Hallertau 29g AA2.2 60min 11.1IBU
+* Hallertau 29g AA2.2 5min 2.2IBU
+
+**酵母**
+
+* Munich Classic 一包
+
+投入溫度 15
+
+**流程**
+
+14.2L OG1.059 FG1.014 ABV6 IBU14.39 SRM4.53
+
+補水3L OG1.049 FG1.011 ABV4.95 IBU11.88 SRM3.97 match
+
+![](../img/test151.png)
