@@ -1,6 +1,6 @@
 # 190501-Ethen-RayImperialStout
 
-初次挑戰
+初次挑戰，感謝 Vicky 協助
 
 牡蠣啤酒的歷史
 
