@@ -185,6 +185,7 @@ License: [CC: BY-SA](https://creativecommons.org/licenses/by-sa/3.0/tw/legalcode
 *   [各種改裝](各種改裝.md) 
 *   [品飲學習筆記](品飲學習筆記.md) 
 *   [酸啤酒](酸啤酒.md) 
+*   [高酒精發酵](高酒精發酵.md) 
 
 ### 蒸餾酒
 *   [蒸餾](蒸餾.md)
