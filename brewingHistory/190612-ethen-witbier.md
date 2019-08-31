@@ -255,11 +255,11 @@ chungyunji@yahoo.com.tw: diacetyl, 藥味，哪來的香蕉油... 描述中溶�
 
 ### 桃園購物節（原Showhow盃）28.5
 
-assinass703@gmail.com: 無明顯缺陷，蜂蜜生麵糰香蕉味圓荽子沒比利時香料味，收尾乾淨，認為風格不符類別
+assinass703@gmail.com: 無明顯缺陷，蜂蜜生麵糰香蕉味圓荽子沒比利時香料味，收尾乾淨，認為風格不符類別，28
 
-crdcrd5455@gmail.com: DMS，發酵不完全奶油味百香果些微香菜子香蕉味澀味(...)，認為不符類別但覺得整體很好喝
+crdcrd5455@gmail.com: DMS，發酵不完全奶油味百香果些微香菜子香蕉味澀味(...)，認為不符類別但覺得整體很好喝，27
 
-maskpiece@livemail.tw: 無明顯缺陷，味到偏向香蕉跟丁香(...)，缺乏比利時的明亮柑橘感，不夠爽脆，認為同時介於德式與比利時之間難以定位不適合參賽
+maskpiece@livemail.tw: 無明顯缺陷，味到偏向香蕉跟丁香(...)，缺乏比利時的明亮柑橘感，不夠爽脆，認為同時介於德式與比利時之間難以定位不適合參賽，29
 
 bkavdc@gmail.com: Gressy油脂感，精油，薄膜的感覺(L), Spicy(L)，新鮮清爽柔和，貴族系酒花與小麥芽風味明顯，建議投10A Weissbier, 34B Mixed-Style Beer，30
 
