@@ -22,8 +22,15 @@ GF糖化67度
 * Saaz AA3.2 1oz 0min
 
 ## 酵母
-* Saflager W34/70 3包 pitch rate 1.44 (官方建議0.75)
+* Saflager W34/70 3包 pitch rate 1.44 (官方建議0.57)
 * Saflager W34/70 1.8L pitch rate 1.2
+
+```
+https://fermentis.com/wp-content/uploads/2018/03/SafLager-W-3470.pdf
+PITCHING:80 to 120 g/hl for fermentation at 12°C – 15°C (53.6-59°F).  => pitchrate 0.57
+increase pitching for fermentation lower than 12°C (53°F), 
+up to 200 to 300 g/hl at 9°C (48°F) => pitchrate 0.95-1.43
+```
 
 發酵溫度15（初始溫度14）
 
