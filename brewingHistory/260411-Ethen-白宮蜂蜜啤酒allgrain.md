@@ -2,7 +2,7 @@
 
 因應三寶爸的520世界蜂蜜日 - 蜂蜜啤酒比賽4/11的自釀啤酒課程，示範all grain的釀造法
 
-預期釀造批次17公升，酒精度ABV5.38%，苦度IBU35，初始比重OG1.055，最終比重FG1.014
+預期釀造批次17公升，酒精度ABV5.38%，苦度IBU35，初始比重OG1.055，最終比重FG1.014 https://www.brewersfriend.com/homebrew/recipe/view/784105/whitehouse-honey-ale-allgrain-edit
 
 整體風格接近英式 8C.Extra Special/Strong Bitter https://www.bjcp.org/beer-styles/8c-extra-specialstrong-bitter-english-pale-ale/
 
